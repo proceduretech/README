@@ -1,6 +1,6 @@
 # 2020
 
-|             |           |                     |
+| Date        | Day       | Reason              |
 | ----------- | --------- | ------------------- |
 | January 1   | Wednesday | New Year            |
 | March 10    | Tuesay    | Holi                |
